@@ -9,12 +9,16 @@ app.options('*', cors());
 const port = 8080;
 
 app.get('/', (req, res, next) => {
-	res.send('node express api <br> by adsoft');
+	res.send('node express api <br> by Marlene');
 });
 
 
 app.get('/header', (req, res, next) => {
   res.sendfile("assets/header.json");
+});
+
+app.get('work-experience', (req, res, next) => {
+	  res.sendfile("assets/work-experience.json");
 });
 
 app.listen(port,  () => 

@@ -1,9 +1,10 @@
 {
-  "name"  : "Adolfo Centeno",
-  "email" : "adsoft@live.com.mx",
-  "cel"   : "(272)190 8413",
-  "social": {
-    "face": "^2.8.5",
-    "x": "^4.18.2"
-  }
+  "name"  : "Marlene Juárez",
+  "grades": "Software engineer",
+  "mision": "I aim to balance my personal growth with my professional development. I strive for continuous learning, promoting values of empathy and ethics, and contributing to society through my work as a software engineer.",
+  "email" : "melissamarlenejuarez@gmail.com",
+  "cel"   : "(271)184 xxxx",
+  "photo": "https://firebasestorage.googleapis.com/v0/b/apicv-ad9db.appspot.com/o/MarFoto.png.jpeg?alt=media&token=a4d6c55f-a2fa-4c9e-b418-9a0fab8691f7",
+  "socialnetwork": "@MarleneJB",
+  "ubication": "Córdoba, Ver"
 }
