@@ -1,0 +1,18 @@
+{
+    "work-experience": [
+      {
+        "job-title": "Analist of requirements, Backend Developer",
+        "company": "Universidad Veracruzana",
+        "location": "Córdoba, Veracruz",
+        "dates": "Jul 2023 - Now",
+        "description": "Development and maintenance of high-quality web applications, collaborating in multidisciplinary teams to achieve effective technological solutions."
+      },
+      {
+        "job-title": "Frontend Developer",
+        "company": "Universidad Veracruzana",
+        "location": "Córdoba, Veracruz",
+        "dates": "Feb 2023 - Jun 2023",
+        "description": "Contributed to the development of the user interface for the AI-driven credential generation application, ensuring an intuitive and user-friendly design."
+      }
+    ]
+  }
