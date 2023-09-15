@@ -1,0 +1,24 @@
+{
+    "interests": [
+        {
+            "id": 1,
+            "img": "https://firebasestorage.googleapis.com/v0/b/apicv-ad9db.appspot.com/o/games.png?alt=media&token=17f68ad4-1a2a-4b7a-98fa-25189de117b4",
+            "title": "Videogames"
+        },
+        {
+            "id": 2,
+            "img": "https://firebasestorage.googleapis.com/v0/b/apicv-ad9db.appspot.com/o/sailor.png?alt=media&token=2d8f0fd1-6217-4620-af46-a435243b0983",
+            "title": "Anime"
+        },
+        {
+            "id": 3,
+            "img": "https://firebasestorage.googleapis.com/v0/b/apicv-ad9db.appspot.com/o/handball.png?alt=media&token=795e34d3-cc5d-44e7-9200-373ae4f4b1c9",
+            "title": "Handball"
+        },
+        {
+            "id": 4,
+            "img": "https://firebasestorage.googleapis.com/v0/b/apicv-ad9db.appspot.com/o/musical-note.png?alt=media&token=fccaec83-5e13-48b8-a1ef-7fcc65ea08b4",
+            "title": "Music"
+        }
+    ]
+}

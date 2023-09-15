@@ -1,0 +1,24 @@
+{
+    "skills": [
+    {
+        "id": 1,
+        "skill": "Leadership"
+    },
+    {
+        "id": 2,
+        "skill": "Creativity"
+    },
+    {
+        "id": 3,
+        "skill": "Management"
+    },
+    {
+        "id": 4,
+        "skill": "Teamwork"
+    },
+    {
+        "id": 5,
+        "skill": "Responsibility"
+    }
+    ]
+    }

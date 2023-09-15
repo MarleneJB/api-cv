@@ -1,0 +1,22 @@
+{
+    "achievements": [
+        {
+            "id": 1,
+            "title": "Tester in UV",
+            "description": "Test of multiplataform",
+            "year": 2023
+        },
+        {
+            "id": 2,
+            "title": "Analist of requeriments in UV",
+            "description": "Analist in web development",
+            "year": 2023
+        },
+        {
+            "id": 3,
+            "title": "Graphic Designer in UV",
+            "description": "Graphic Designer in web development",
+            "year": 2023
+        }
+    ]
+}
