@@ -23,6 +23,30 @@
           {
             "logro": "Contributed to the development of the user interface for the AI-driven credential generation application, ensuring an intuitive and user-friendly design."
           }
+      },
+      {
+        "puesto": "Analist of requirements, Backend Developer",
+        "empresa": "Universidad Veracruzana",
+        "fecha_ini": "Jul 23",
+        "fecha_fin": "Now",
+        "ciudad": "Orizaba",
+        "pais": "MX",
+        "logros": 
+          {
+            "logro": "Development and maintenance of high-quality web applications, collaborating in multidisciplinary teams to achieve effective technological solutions."
+          }
+      },
+      {
+        "puesto": "Frontend Developer",
+        "empresa": "Universidad Veracruzana",
+        "fecha_ini": "Feb 23",
+        "fecha_fin": "Jun 23",
+        "ciudad": "Córdoba, Veracruz",
+        "pais": "MX",
+        "logros": 
+          {
+            "logro": "Contributed to the development of the user interface for the AI-driven credential generation application, ensuring an intuitive and user-friendly design."
+          }
       }
     ]
   }
