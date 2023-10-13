@@ -37,6 +37,10 @@ app.get('/1a_proxy_size', (req, res, next)=>{
 	res.sendfile("assets/proxy-size.json");
 });
 
+app.get('/1a_dev_hours', (req, res, next)=>{
+	res.sendfile("assets/dev-hours.json");
+});
+
 app.listen(port,  () => 
 	console.log('listening on port ' + port
 ));
