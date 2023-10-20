@@ -41,6 +41,22 @@ app.get('/1a_dev_hours', (req, res, next)=>{
 	res.sendfile("assets/dev-hours.json");
 });
 
+app.get('/test1', (req, res, next) => {
+	res.sendfile("assets/data1.json");
+  });
+  
+  app.get('/test2', (req, res, next) => {
+	res.sendfile("assets/data2.json");
+  });
+  
+  app.get('/test3', (req, res, next) => {
+	res.sendfile("assets/data3.json");
+  });
+  
+  app.get('/test4', (req, res, next) => {
+	res.sendfile('assets/data4.json');
+  });
+
 app.listen(port,  () => 
 	console.log('listening on port ' + port
 ));
